@@ -1,14 +1,22 @@
 {
-    "name": "frontend",
+    "name": "treinamento-react-js",
     "version": "1.0.0",
     "description": "",
     "main": "webpack.config.js",
     "scripts": {
         "start": "webpack-dev-server --progress --colors --inline --hot"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/EduardoRotundaro/treinamento-react-js.git"
+    },
     "keywords": [],
     "author": "Eduardo Henrique Rotundaro",
     "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/EduardoRotundaro/to-do-app-react-js/issues"
+    },
+    "homepage": "https://github.com/EduardoRotundaro/to-do-app-react-js#readme",
     "dependencies": {
         "axios": "^0.15.3",
         "babel-core": "^6.22.1",

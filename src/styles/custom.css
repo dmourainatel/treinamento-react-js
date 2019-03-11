@@ -1,0 +1,24 @@
+.markedAsDone{
+    text-decoration: line-through;
+    color: gray;
+}
+
+.aboutImg{
+    padding: 8px;
+}
+
+.mrg-t{
+    margin-top: 15px;
+}
+
+.mrg-b{
+    margin-bottom: 20px;
+}
+
+.mrg-l{
+    margin-left: 5px;
+}
+
+.btns-column{
+    width: 120px;
+}
