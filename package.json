@@ -1,14 +1,14 @@
 {
-    "name": "treinamento-react-js",
+    "name": "to-do-app-react-js",
     "version": "1.0.0",
-    "description": "",
+    "description": "A simple to-do application made with the React js library.",
     "main": "webpack.config.js",
     "scripts": {
         "start": "webpack-dev-server --progress --colors --inline --hot"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/EduardoRotundaro/treinamento-react-js.git"
+        "url": "git+https://github.com/EduardoRotundaro/to-do-app-react-js.git"
     },
     "keywords": [],
     "author": "Eduardo Henrique Rotundaro",
@@ -32,7 +32,9 @@
         "font-awesome": "^4.7.0",
         "react": "^15.4.2",
         "react-dom": "^15.4.2",
+        "react-redux": "^5.0.2",
         "react-router": "^3.0.2",
+        "redux": "^3.6.0",
         "style-loader": "^0.13.1",
         "webpack": "^1.14.0",
         "webpack-dev-server": "^1.16.2"
